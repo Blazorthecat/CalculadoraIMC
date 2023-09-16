@@ -4,8 +4,9 @@ Neste trabalho em colaboração com meu amigo Maycon, construi a parte de Front-
 ======================================================
                   COMO UTILIZAR:
 
-1- Insira sua altura em centímetros na aba "Altura em CM"
-2- Insira seu peso arredondado na aba "Peso"
+1- acesse: https://blazorthecat.github.io/CalculadoraIMC/
+2- Insira sua altura em centímetros na aba "Altura em CM"
+3- Insira seu peso arredondado na aba "Peso"
 
 A Calculadora não trabalha com números que não sejam inteiros, portanto, o uso de "," em qualquer uma das categorias irá resultar em um erro no cálculo
 ======================================================                
